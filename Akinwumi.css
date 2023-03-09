@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background: black;
+    color: white;
+}
+.ak1{
+    padding: 30px;
+    text-align: center;
+}
+.ak1i{
+    color: yellowgreen;
+    text-align: center;
+    font-size: 2rem;
+}
+span{
+    color: yellowgreen;
+    text-decoration: underline;
+}
+.ak1iii{
+    font-size: 1rem;
+}
+button{
+    padding: 15px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    background: yellowgreen;
+}
+button a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.ak2{
+    text-align: center;
+}
+.ak2i{
+    font-size: 2rem;
+}
+.host{
+    font-size: 1.5rem;
+}
+img{
+    border-radius: 100px;
+}
+.name{
+    font-size: 2rem;
+}
+.ak3{
+    text-align: center;
+}
+.learn{
+    color: yellowgreen;
+    font-weight: bold;
+    font-size: 2rem;
+}
+h5{
+    font-size: 1.5rem;
+    padding: 3px;
+}
+p input{
+    margin: 2px;
+}
